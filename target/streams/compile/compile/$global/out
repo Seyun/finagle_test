@@ -1,0 +1,28 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/ppassa/Projects/finagle/src/main/scala/EchoServer.scala, /Users/ppassa/Projects/finagle/src/main/scala/StringCodec.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/ppassa/Projects/finagle/src/main/scala/EchoServer.scala, /Users/ppassa/Projects/finagle/src/main/scala/StringCodec.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mInitially invalidated: Set(/Users/ppassa/Projects/finagle/src/main/scala/EchoServer.scala, /Users/ppassa/Projects/finagle/src/main/scala/StringCodec.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to /Users/ppassa/Projects/finagle/target/scala-2.9.1/classes...[0m
+[0m[[0mdebug[0m] [0mInterfacing (CompilerInterface) with Scala compiler version 2.9.1.final[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/Users/ppassa/Projects/finagle/target/scala-2.9.1/classes[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsfd.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/ui.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/laf.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/sunrsasign.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsse.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jce.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/charsets.jar:/Users/ppassa/.sbt/boot/scala-2.9.1/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/ppassa/Projects/finagle/target/scala-2.9.1/classes:/Users/ppassa/.ivy2/cache/com.twitter/finagle-core/jars/finagle-core-1.11.0.jar:/Users/ppassa/.ivy2/cache/io.netty/netty/bundles/netty-3.3.1.Final.jar:/Users/ppassa/.ivy2/cache/com.twitter/util-hashing/jars/util-hashing-1.12.13.jar:/Users/ppassa/.ivy2/cache/com.twitter/util-core/jars/util-core-1.12.13.jar:/Users/ppassa/.ivy2/cache/com.twitter/util-collection/jars/util-collection-1.12.13.jar:/Users/ppassa/.ivy2/cache/com.google.guava/guava/jars/guava-r09.jar:/Users/ppassa/.ivy2/cache/commons-collections/commons-collections/jars/commons-collections-3.2.1.jar:/Users/ppassa/.sbt/boot/scala-2.9.1/lib/scala-compiler.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/ppassa/Projects/finagle/src/main/scala/EchoServer.scala[0m
+[0m[[0mdebug[0m] [0m	/Users/ppassa/Projects/finagle/src/main/scala/StringCodec.scala[0m
+[0m[[0mdebug[0m] [0m	Invalidated direct: Set()[0m
+[0m[[0mdebug[0m] [0mIncrementally invalidated: Set()[0m

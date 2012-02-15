@@ -1,0 +1,17 @@
+<classpath>
+  <classpathentry output="target/scala-2.9.1/classes" path="src/main/scala" kind="src"></classpathentry>
+  <classpathentry output="target/scala-2.9.1/classes" path="src/main/java" kind="src"></classpathentry>
+  <classpathentry output="target/scala-2.9.1/test-classes" path="src/test/scala" kind="src"></classpathentry>
+  <classpathentry output="target/scala-2.9.1/test-classes" path="src/test/java" kind="src"></classpathentry>
+  <classpathentry path="org.scala-ide.sdt.launching.SCALA_CONTAINER" kind="con"></classpathentry>
+  <classpathentry path="/Users/ppassa/.ivy2/cache/com.twitter/finagle-core/jars/finagle-core-1.11.0.jar" kind="lib"></classpathentry>
+  <classpathentry path="/Users/ppassa/.ivy2/cache/io.netty/netty/bundles/netty-3.3.1.Final.jar" kind="lib"></classpathentry>
+  <classpathentry path="/Users/ppassa/.ivy2/cache/com.twitter/util-hashing/jars/util-hashing-1.12.13.jar" kind="lib"></classpathentry>
+  <classpathentry path="/Users/ppassa/.ivy2/cache/com.twitter/util-core/jars/util-core-1.12.13.jar" kind="lib"></classpathentry>
+  <classpathentry path="/Users/ppassa/.ivy2/cache/com.twitter/util-collection/jars/util-collection-1.12.13.jar" kind="lib"></classpathentry>
+  <classpathentry path="/Users/ppassa/.ivy2/cache/com.google.guava/guava/jars/guava-r09.jar" kind="lib"></classpathentry>
+  <classpathentry path="/Users/ppassa/.ivy2/cache/commons-collections/commons-collections/jars/commons-collections-3.2.1.jar" kind="lib"></classpathentry>
+  <classpathentry path="org.scala-ide.sdt.launching.SCALA_COMPILER_CONTAINER" kind="con"></classpathentry>
+  <classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"></classpathentry>
+  <classpathentry path="bin" kind="output"></classpathentry>
+</classpath>
